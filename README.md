@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**I am a Freelance | Software Engineer | Full Stack Web Developer**
+**I am a Freelancer | Software Engineer | Full Stack Web Developer**
 
 ## Website
 <a href="https://danidev.eu.org">danidev.eu.org</a>
