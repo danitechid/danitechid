@@ -8,4 +8,4 @@
 <a href="https://danitechid.com">danitechid.com</a> (Blog)
 
 ## For business
-<a href="mailto:contact@danidev.eu.org">contact@danidev.eu.org</a>
+<a href="mailto:contact@danitechid.com">contact@danitechid.com</a>
