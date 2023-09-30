@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Dani, I'm a programmer and my role in the world of programmers is Full Stack Developer, I have experience making social media projects, I've created a ChatApp project similar to WhatsApp and I've created a D-FBook project similar to Facebook, and lastly I build WhatsApp bot project and RESTful API with full CRUD
+Hi, I'm Dani, I'm a programmer and my role in the world of programmers is Full Stack Developer, I have experience making social media projects, I've created a ChatApp project similar to WhatsApp and I've created a DTubeIn project similar to YouTube, D-FBook project similar to Facebook, and lastly I build WhatsApp bot project and RESTful API with full CRUD
 
 ```asm
 section .data
@@ -13,8 +13,8 @@ section .data
            db "JavaScript", 0
            db "Bootstrap", 0
            db "Tailwind CSS", 0
-           db "Node.js", 0
-           db "Express.js", 0
+           db "Node", 0
+           db "Express", 0
            db "PHP", 0
            db "Java", 0
            db "Python", 0
@@ -51,4 +51,4 @@ _start:
 <a href="https://danitechid.com">danitechid.com</a> (Portfolio)
 
 ### For business
-<a href="mailto:contact@danitechid.com">contact@danitechid.com</a>
+<a href="mailto:contact@danitechno.com">contact@danitechno.com</a>
