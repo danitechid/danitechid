@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi, I'm Dani, I'm a programmer and my role in the world of programmers is Full Stack Developer, I have experience making social media projects, I've created a ChatApp project similar to WhatsApp and I've created a DTubeIn project similar to YouTube, D-FBook project similar to Facebook, and lastly I build WhatsApp bot project and RESTful API with full CRUD
+Hello, best wishes. Let me introduce myself, I'm Dani Ramdani. I am a Programmer with the role of FullStack Web Developer. Currently, I am studying at CUY University through the self-taught method or free online lectures from YouTube. My skills include the ability to create various types of websites, website applications, and APIs. Apart from that, I also have experience in creating WhatsApp Bots. I have been involved in various projects, including creating REST APIs, RESTful APIs using Node and Express, WhatsApp Bots with Node, DDoS script development using Python, Web Streaming Video development with native PHP, WhatsApp Clone using native PHP, as well as other projects. Thank You.
 
 ```asm
 section .data
